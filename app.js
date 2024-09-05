@@ -1,0 +1,2 @@
+var something = "ANY VERI TIPINDE PROGRAMINIZDA HATA OLMAMASI ICIN HER TÜRLÜ VERİ TİPİ KULLANILABİLİR";
+console.log(something);
